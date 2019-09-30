@@ -12,7 +12,7 @@ Q1. function draw() {
   if (x > width) {
     x = random(10);
     h = h + 3; 
-    is the code that makes the lawn mower run. It comes 
+    is the code that makes the lawn mower run. 
     
  Q3. The point of the h variable is to determine the height/size of the grass.
  
