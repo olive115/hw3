@@ -16,4 +16,4 @@ Q1. function draw() {
     
  Q3. The point of the h variable is to determine the height/size of the grass.
  
- Q4. The -10 in the second and fourth determines the height and direction of the grass as well as the placement of the soil. 
+ Q4. The -10 in the second and fourth determines the height and direction of the grass as well as the placement of the soil. it acts as a balance and allows the blades of grass to grow stright up and down.
